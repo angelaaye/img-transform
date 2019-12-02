@@ -1,4 +1,4 @@
-# imgtransform
+# img-transform
 This repository uses perspective transformation to replace a portion of an existing image with an alternate image. 
 
 ## Files
